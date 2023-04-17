@@ -114,13 +114,13 @@
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/Joelkb/DQ-The-File-Donor/blob/master/info.py) for more optional variables
+* Check [info.py](https://github.com/madhangowdaa/filterbot-MAK/blob/master/info.py) for more optional variables
 
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Joelkb/DQ-the-file-donor">
+<a href="https://heroku.com/deploy?template=https://github.com/madhangowdaa/filterbot-MAK">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -142,7 +142,7 @@
 
 <details><summary>Deploy To Render</summary>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/Joelkb/DQ-the-file-donor/tree/web">
+<a href="https://render.com/deploy?repo=https://github.com/madhangowdaa/filterbot-MAK/tree/web">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
@@ -150,7 +150,7 @@
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/Joelkb/DQ-The-File-Donor
+git clone https://github.com/madhangowdaa/filterbot-MAK
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -164,7 +164,7 @@ python3 bot.py
 ## Credits 
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
 * [![Joel-TGX](https://img.shields.io/static/v1?label=Jᴏᴇʟ+ᠰ+TɢX&message=Github&color=critical)](https://github.com/Joelkb)
-* [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/creatorbeatz)
+* [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/MoviezAddaKan)
 
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
@@ -177,7 +177,7 @@ python3 bot.py
 ## Note 🏷️
  - <b>Importing this repo instead of forking is strictly prohibited 🚫 Kindly fork and edit as your wish (Must Give Credits for devs) 🙃</b>
  - <b>If you find any bugs or errors, report it to the developer.</b>
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/creatorbeatz)
+* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/MoviezAddaKan)
 
 [Note To A So Called Dev](https://telegram.dog/subin_works/203): 
 
@@ -190,6 +190,6 @@ Licensed under [GNU AGPL 2.0.](https://github.com/EvamariaTG/evamaria/blob/maste
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ## Inspiration
-This is an attempt to create a clone of a BOAT made out of [banana trees 🌳](https://telegram.dog/GetTGLink/4187)
+This is an attempt to create a clone of a BOAT made out of [banana trees 🌳](https://telegram.me/MoviezAddaKan)
 
-[![For Vaza](https://telegra.ph/file/e743b0c8a04252774bac2.jpg)](https://telegra.ph/file/98342dc186fd7484cba91.mp4 "Oru Kootam Vazhakalk samarpikkunnu")
+[![For Vaza](https://graph.org/file/496ec32d34750348448c9.jpg)](https://telegra.ph/file/451f038b4e7c2ddd10dc0.mp4 " Yakkho Chinna Ley")
