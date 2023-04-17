@@ -192,4 +192,4 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 ## Inspiration
 This is an attempt to create a clone of a BOAT made out of [banana trees 🌳](https://telegram.me/MoviezAddaKan)
 
-[![For Vaza]([https://graph.org/file/496ec32d34750348448c9.jpg](https://telegra.ph/file/451f038b4e7c2ddd10dc0.mp4))](https://telegra.ph/file/451f038b4e7c2ddd10dc0.mp4 " Yakkho Chinna Ley")
+[![For Vaza]([https://graph.org/file/496ec32d34750348448c9.jpg])](https://telegra.ph/file/451f038b4e7c2ddd10dc0.mp4 " Yakkho Chinna Ley")
