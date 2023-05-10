@@ -270,15 +270,9 @@ async def next_page(bot, query):
                         InlineKeyboardButton("𝐍𝐄𝐗𝐓 ➪", callback_data=f"next_{req}_{key}_{n_offset}")
                     ],
                 )
-#     btn.insert(0, [
-#         InlineKeyboardButton("Send All !", callback_data=f"send_fall#files#{key}#{offset}")
-#     ])
     btn.insert(0, [
         InlineKeyboardButton("📁 𝐇𝐨𝐰 𝐓𝐨 𝐆𝐞𝐭 𝐅𝐢𝐥𝐞𝐬", url="t.me/MoviezAddaKan/58")
     ])
-#     btn.insert(0, [
-#         InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
-#     ])
     try:
         await query.edit_message_reply_markup(
             reply_markup=InlineKeyboardMarkup(btn)
@@ -1455,16 +1449,9 @@ async def auto_filter(client, msg, spoll=False):
                     InlineKeyboardButton(f'ꜱᴇʀɪᴇꜱ', 'sinfo')
                 ]
             )
-
-#     btn.insert(0, [
-#         InlineKeyboardButton("Send All !", callback_data=f"send_fall#{pre}#{message.chat.id}-{message.id}#{0}")
-#     ])
     btn.insert(0, [
         InlineKeyboardButton("📁 𝐇𝐨𝐰 𝐓𝐨 𝐆𝐞𝐭 𝐅𝐢𝐥𝐞𝐬", url="t.me/MoviezAddaKan/58")
     ])
-#     btn.insert(0, [
-#         InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
-#     ])
 
     if offset != "":
         key = f"{message.chat.id}-{message.id}"
