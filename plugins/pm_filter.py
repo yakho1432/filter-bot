@@ -276,9 +276,9 @@ async def next_page(bot, query):
     btn.insert(0, [
         InlineKeyboardButton("📁 𝐇𝐨𝐰 𝐓𝐨 𝐆𝐞𝐭 𝐅𝐢𝐥𝐞𝐬", url="t.me/MoviezAddaKan/58")
     ])
-    btn.insert(0, [
-        InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
-    ])
+#     btn.insert(0, [
+#         InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
+#     ])
     try:
         await query.edit_message_reply_markup(
             reply_markup=InlineKeyboardMarkup(btn)
@@ -1462,9 +1462,9 @@ async def auto_filter(client, msg, spoll=False):
     btn.insert(0, [
         InlineKeyboardButton("📁 𝐇𝐨𝐰 𝐓𝐨 𝐆𝐞𝐭 𝐅𝐢𝐥𝐞𝐬", url="t.me/MoviezAddaKan/58")
     ])
-    btn.insert(0, [
-        InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
-    ])
+#     btn.insert(0, [
+#         InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
+#     ])
 
     if offset != "":
         key = f"{message.chat.id}-{message.id}"
